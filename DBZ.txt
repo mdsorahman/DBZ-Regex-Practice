@@ -1,0 +1,30 @@
+Welcome to the Grand Tour. It's the greatest in all the world.
+
+This file contains characters and descriptions for my favorite show, DBZ.
+It's formatting is wonky to show that the corresponding Java File (DBZRegex.java)
+is able to handle this file, and all it's weird formatting and symbols.
+Check that program to understand it's purpose.
+
+
+
+
+Let's list off our fighters:
+1) Son Goku, earth's mightiest defender
+2) Prince Vegeta, Prince of the illustrious Saiyan Race
+3) Lord Beerus, Universe Seven's God of Destruction
+4) Whis, Angle and Advisor to Lord Beerus
+5) Freezer, Proud Tyrant and asshole
+
+
+*********daskljfklajf
+
+
+
+%%%%@
+
+___
+
+
+
+
+Now the Tournament of Power Begins!!!
